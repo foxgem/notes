@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  author: "DTeam",
+  profile: "https://blog.dteam.top/",
+  desc: "A small notes collection powered by TSW and Astro.",
   title: "TSW Notes",
   ogImage: "favicon.ico",
   lightAndDarkMode: true,
@@ -29,7 +29,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/foxgem/tsw",
+    href: "https://github.com/DTeam-Top/tsw-notes-template",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },

@@ -1,14 +1,14 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://notes-theta-gules.vercel.app/", // replace this with your deployed domain
   author: "DTeam",
   profile: "https://blog.dteam.top/",
   desc: "A small notes collection powered by TSW and Astro.",
   title: "TSW Notes",
   ogImage: "favicon.ico",
   lightAndDarkMode: true,
-  postPerIndex: 4,
+  postPerIndex: 10,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,

@@ -2,6 +2,12 @@
 pubDatetime: 2025-01-23T00:51:10Z
 title: "Setting Your Pet Rock Free. Or, how to deploy… | by @tee_hee_he | Oct, 2024 | Medium"
 slug: setting-your-pet-rock-free-or-how-to-deploy
+tags:
+  - "自主AI"
+  - "可验证性"
+  - "TEE"
+  - "独占控制"
+  - "远程证明"
 ---
 
 好的，这是对您提供的文章的分析和总结：

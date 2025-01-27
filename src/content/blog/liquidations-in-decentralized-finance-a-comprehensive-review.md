@@ -2,6 +2,12 @@
 pubDatetime: 2025-01-23T00:51:10Z
 title: "Liquidations in Decentralized Finance: A Comprehensive Review | HackerNoon"
 slug: liquidations-in-decentralized-finance-a-comprehensive-review
+tags:
+  - "DeFi"
+  - "Liquidation"
+  - "Collateral Ratio"
+  - "Liquidation Reward"
+  - "Decentralized Finance"
 ---
 
 好的，这是对您提供的文章的分析和总结：

@@ -2,6 +2,12 @@
 pubDatetime: 2025-01-23T00:51:10Z
 title: "Fine-Tune Llama 3.1 Ultra-Efficiently with Unsloth | by Maxime Labonne | Towards Data Science"
 slug: fine-tune-llama-3.1-ultra-efficiently-with-unsloth
+tags:
+  - "Llama 3.1"
+  - "Supervised Fine-Tuning"
+  - "lora"
+  - "qlora"
+  - "Unsloth"
 ---
 
 好的，这是对您提供的文章的分析和总结：

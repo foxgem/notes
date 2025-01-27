@@ -2,6 +2,12 @@
 pubDatetime: 2025-01-23T00:51:10Z
 title: "What is an Agent? - by Miguel Otero Pedrido"
 slug: what-is-an-agent
+tags:
+  - 智能体
+  - LLM
+  - 规划
+  - 记忆
+  - 工具
 ---
 
 好的，这是对您提供的文章的分析和总结：

@@ -2,6 +2,11 @@
 pubDatetime: 2025-01-23T00:51:10Z
 title: "Agent Tools: The bridge to the outside world"
 slug: agent-tools_-the-bridge-to-the-outside-world
+tags:
+  - "Agent Tools"
+  - "LLM"
+  - "Tool Pattern"
+  - "Function Calling"
 ---
 
 好的，这是对您提供的文章的分析和总结：
